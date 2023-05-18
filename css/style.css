@@ -12,3 +12,74 @@
     margin-left: 30%;
 
 }
+.cajero{
+    background-color: rgba(38, 207, 151, 0.267);
+    height: 670px;
+    width: 80%;
+    margin: auto;
+    margin-top: 2%;
+}
+.logoc{
+    margin-left: 25px;
+    margin-top: 25px;
+    color: rgb(6, 60, 185);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif,bold;
+    padding-left: 40%;
+}
+.titulo{
+    margin-top: 25px;
+    margin-left: 25px;
+    color: rgb(2, 59, 7);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+}
+.subtitulo{
+    margin-top: 10px;
+    margin-left: 25px;
+    color: rgba(9, 90, 16, 0.815);
+    font-size: 18px;
+}
+.cuadro{
+    background-color: rgba(31, 20, 182, 0.226);
+    margin: 15px;
+    margin-top: auto;
+}
+.centrartexto{
+    padding-left: 20px;
+    padding-top: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.input-group-text{
+    background-color: rgba(26, 53, 175, 0.74);
+    width: 30px;
+    height: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    padding-left: 7px;
+}
+.form-control{
+    color: rgba(44, 156, 119, 0.74);
+    background-color: rgba(29, 26, 216, 0.082);
+    border-color: rgb(3, 11, 59);
+    border-radius: 5px;
+}
+
+.botonAccion{
+    padding-top: 40px;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -14,7 +14,7 @@ loginButton.addEventListener('click', function(e){
         const contrasenia = inputPassword.value;
 
         if (usuarios[email]['password']== contrasenia){
-            window.location.href = '/htmls/cuenta_usuario.html';
+            window.location.href = '/htmls/cuenta_usuario.html?numCta=' +usuarios[email]['numCta'];
         } else{
             alert('Contraseña incorrecta');
         }
